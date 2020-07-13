@@ -1,1 +1,4 @@
-images filter=lfs diff=lfs merge=lfs -text
+/mnt/alienware-hdd/Git/style-transfer/images/input filter=lfs diff=lfs merge=lfs -text lockable
+/mnt/alienware-hdd/Git/style-transfer/images/output filter=lfs diff=lfs merge=lfs -text lockable
+/mnt/alienware-hdd/Git/style-transfer/images/plot filter=lfs diff=lfs merge=lfs -text lockable
+/mnt/alienware-hdd/Git/style-transfer/images/test filter=lfs diff=lfs merge=lfs -text lockable
