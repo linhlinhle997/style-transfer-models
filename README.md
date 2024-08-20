@@ -4,7 +4,7 @@ created: '2020-07-13T05:50:38.161Z'
 modified: '2020-07-13T07:00:44.840Z'
 ---
 
-# style-transfer
+# Neural Style Transfer with Pre-Trained Models
 
 ### Pre-Trained Models
 - eccv16: `composition_vii.t7`, `la_muse.t7`, `starry_night.t7`, `the_wave.t7`
